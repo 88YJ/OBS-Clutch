@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ori And The Will Of The Wisps",
+        "desc": "Test Desc",
+        "exe": "oriwotw.exe",
+        "wideImg": "https://sickr.files.wordpress.com/2020/09/ori_and_the_will_of_the_wisps_banner.jpg"
+    },
+    {
+        "name": "Dota 2",
+        "desc": "Test Desc",
+        "exe": "dota2.exe",
+        "wideImg": "http://i.imgur.com/FZu5Uxz.jpg"
+    },
+    {
+        "name": "Valheim",
+        "desc": "Test Desc",
+        "exe": "valheim.exe",
+        "wideImg": "https://cdn.staticneo.com/n/4/valheim_banner_display.jpg"
+    }
+]
